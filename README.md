@@ -1,9 +1,4 @@
-<a href="https://ibb.co/mr0ZMgPq" target="_blank">
-    <img src="https://i.ibb.co/0pK4dvzM/Whats-App-Image-2025-11-19-at-12-43-31-34742a1f.jpg"
-         alt="WhatsApp Image"
-         style="float: right; width: 300px; height: 300px; border: 0;">
-</a>
-
+<img src="https://www.imghippo.com/i/sjwt6948mIM.jpg" align="right" width="300" height="300"/>
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
