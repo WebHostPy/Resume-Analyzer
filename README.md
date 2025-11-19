@@ -93,5 +93,4 @@ PROJECT EXPLANATION-
 # in components create resumecard inside it make link and then use deconstructure for resume components so that they are easy to handle the components easily
 scoreCircle is basically used for svg component in the resumecard here we pass a score variable
 =======
-# Resume-Analyzer
->>>>>>> 89e07002d16906669f81d3fdbd3c7f93e05fd292
+
